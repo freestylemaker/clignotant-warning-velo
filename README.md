@@ -165,6 +165,6 @@ LedControl matrix(12,11,10,1);
 # Liste des composants
 
 ``` 
-[planche à pain](https://www.amazon.fr/Hilitand-Planche-Prototype-Soudure-Plastique/dp/B07GZJBDCP/ref=sr_1_3?s=computers&ie=UTF8&qid=1548257336&sr=1-3&keywords=planche+pain)
+[planche à pain] (https://www.amazon.fr/Hilitand-Planche-Prototype-Soudure-Plastique/dp/B07GZJBDCP/ref=sr_1_3?s=computers&ie=UTF8&qid=1548257336&sr=1-3&keywords=planche+pain)
 
 
