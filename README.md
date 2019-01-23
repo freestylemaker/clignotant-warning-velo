@@ -1,15 +1,14 @@
 ---
 # clignotant-warning-velo
 
-You will like those projects!
-
+Ce projet permet d'allumer un clignotant gauche/droite, ainsi qu'un clignotant "warning", avec simplement 3 boutons.
 ---
 # vidéo du montage
 [![video](https://img.youtube.com/vi/OF8e3JVgxyo.jpg)](https://www.youtube.com/watch?v=OF8e3JVgxyo)
 
 ---
-# Description
+# Montage
 
 ![SCHEMA](schema-clignotant-warning_bb.jpg)
 
-Ce projet permet d'allumer un clignotant gauche/droite, ainsi qu'un clignotant "warning", avec simplement 3 boutons.
+
