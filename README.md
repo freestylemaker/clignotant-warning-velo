@@ -171,5 +171,3 @@ LedControl matrix(12,11,10,1);
 [résistance 220 W](https://www.amazon.fr/POPESQ%C2%AE-Resistance-Utilisable-Aussi-A2456/dp/B07L2MKDYN/ref=sr_1_1?s=electronics&ie=UTF8&qid=1548258125&sr=1-1&keywords=r%C3%A9sistance+220+ohms+arduino)
 
 [bouton poussoir](https://www.amazon.fr/panneau-momentan%C3%A9-poussoir-interrupteur-broches/dp/B00841ZQXS/ref=asc_df_B00841ZQXS/?tag=googshopfr-21&linkCode=df0&hvadid=227982899234&hvpos=1o2&hvnetw=g&hvrand=11730873474171896983&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9056525&hvtargid=pla-434613410574&psc=1)
-
-
