@@ -11,4 +11,7 @@ Ce projet permet d'allumer un clignotant gauche/droite, ainsi qu'un clignotant "
 
 ![SCHEMA](schema-clignotant-warning_bb.jpg)
 
+---
+
+# le code arduino
 
